@@ -1,0 +1,46 @@
+#######################################
+# Syntax Coloring Map
+#######################################
+# Class (KEYWORD1)
+#######################################
+
+Nano33BLE_IMU  KEYWORD1
+IMU            KEYWORD1
+
+#######################################
+# Method and Functions (KEYWORD2)
+#######################################
+
+begin                     KEYWORD2
+end                       KEYWORD2
+
+readAcceleration          KEYWORD2
+readRawAcceleration       KEYWORD2
+accelerationAvaiable      KEYWORD2
+setAccelerationScale      KEYWORD2
+setAccelerationODR        KEYWORD2
+accelerationSampleRate    KEYWORD2
+accelerationSensitivity   KEYWORD2
+
+readGyroscope             KEYWORD2
+readRawGyroscope          KEYWORD2
+gyroscopeAvailable        KEYWORD2
+setGyroscopeScale         KEYWORD2
+setGyroscopeODR           KEYWORD2
+gyroscopeSampleRate       KEYWORD2
+gyroscopeSensitivity      KEYWORD2
+
+readMagneticField         KEYWORD2
+readRawMagneticField      KEYWORD2
+magneticFieldAvailable    KEYWORD2
+setMagneticFieldScale     KEYWORD2
+setMagneticFieldODR       KEYWORD2
+magneticFieldSampleRate   KEYWORD2
+magneticFieldSensitivity  KEYWORD2
+
+readAccelGyro             KEYWORD2
+accelgyroAvailable        KEYWORD2
+
+########################################
+# Constants
+########################################
